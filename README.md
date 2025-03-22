@@ -27,7 +27,7 @@ This project aims to analyze student engagement data to identify trends in signu
 │   ├── Churn_Analysis_Report_Week3.docx            # Churn analysis and findings  
 │   ├── Dropoff_Analysis_Report.docx                # Drop-off analysis and insights  
 
-├── Presentations/               
+├── Presentation/               
 │   ├── Student_Retention_Engagement_Churn_Analysis.pptx   # Project presentation  
 
 ├── README.md                                      # Project documentation  
@@ -86,4 +86,4 @@ This project aims to analyze student engagement data to identify trends in signu
 
 ## 📑 Presentations:
 - The complete analysis and findings are summarized in the presentation:
-  - **Student Retention, Engagement, and Churn Analysis Presentation** - [View Presentation](Presentations/Student_Retention_Engagement_Churn_Analysis.pptx)
+  - **Student Retention, Engagement, and Churn Analysis Presentation** - [View Presentation](Presentation/Student_Retention_Engagement_Churn_Analysis.pptx)
