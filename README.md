@@ -86,4 +86,4 @@ This project aims to analyze student engagement data to identify trends in signu
 
 ## 📑 Presentations:
 - The complete analysis and findings are summarized in the presentation:
-  - **Student Retention, Engagement, and Churn Analysis Presentation** - [View Presentation](Presentation/Student_Retention_Engagement_Churn_Analysis.pdf)
+  - **Student Retention, Engagement, and Churn Analysis Presentation** - [View Presentation](Presentataion/Student_Retention_Engagement_Churn_Analysis.pdf) 
