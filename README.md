@@ -6,33 +6,31 @@ This project aims to analyze student engagement data to identify trends in signu
 ---
 
 ## Folder Structure:
+├── data/                   
+│   ├── SLU_Opportunity_Wise_Dataset.csv         # Raw dataset  
+│   ├── Cleaned_Preprocessed_Dataset.xlsx         # Cleaned and preprocessed data  
 
-├── data/
-│ ├── SLU_Opportunity_Wise_Dataset.csv # Raw dataset
-│ ├── Cleaned_Preprocessed_Dataset.xlsx # Cleaned and preprocessed data
+├── notebooks/               
+│   ├── Data_Cleaning_and_Preprocessing.ipynb     # Data cleaning and feature engineering  
+│   ├── Bivariate_Analysis_1.ipynb                 # Bivariate analysis (part 1)  
+│   ├── Bivariate_Analysis_2.ipynb                 # Bivariate analysis (part 2)  
+│   ├── EDA_and_Data_Visualization.ipynb           # Exploratory Data Analysis and visualizations  
+│   ├── Relationships_Between_Variables.ipynb      # Analyzing relationships between variables  
+│   ├── Final_Model_File.ipynb                     # Final churn prediction model  
+│   ├── Consolidated_Predictive_Models.ipynb        # Consolidated model comparisons  
+│   ├── Student_Drop_off_Analysis.ipynb             # Drop-off rate and analysis  
 
-├── notebooks/
-│ ├── Data_Cleaning_and_Preprocessing.ipynb # Data cleaning and feature engineering
-│ ├── Bivariate_Analysis_1.ipynb # Bivariate analysis (part 1)
-│ ├── Bivariate_Analysis_2.ipynb # Bivariate analysis (part 2)
-│ ├── EDA_and_Data_Visualization.ipynb # Exploratory Data Analysis and visualizations
-│ ├── Relationships_Between_Variables.ipynb # Analyzing relationships between variables
-│ ├── Final_Model_File.ipynb # Final churn prediction model
-│ ├── Consolidated_Predictive_Models.ipynb # Consolidated model comparisons
-│ ├── Student_Drop_off_Analysis.ipynb # Drop-off rate and analysis
+├── reports/               
+│   ├── Data_Cleaning_Report.pdf                   # Report on data cleaning and preprocessing  
+│   ├── Exploratory Data Analysis (EDA) Report.docx # Detailed EDA report  
+│   ├── Univariate_Analysis_Insights.docx           # Insights from univariate analysis  
+│   ├── Churn_Analysis_Report_Week3.docx            # Churn analysis and findings  
+│   ├── Dropoff_Analysis_Report.docx                # Drop-off analysis and insights  
 
-├── reports/
-│ ├── Data_Cleaning_Report.pdf # Report on data cleaning and preprocessing
-│ ├── Exploratory Data Analysis (EDA) Report.docx # Detailed EDA report
-│ ├── Univariate_Analysis_Insights.docx # Insights from univariate analysis
-│ ├── Churn_Analysis_Report_Week3.docx # Churn analysis and findings
-│ ├── Dropoff_Analysis_Report.docx # Drop-off analysis and insights
+├── presentations/               
+│   ├── Student_Retention_Engagement_Churn_Analysis.pptx   # Project presentation  
 
-├── presentations/
-│ ├── Student_Retention_Engagement_Churn_Analysis.pptx # Project presentation
-
-├── README.md # Project documentation
-
+├── README.md                                      # Project documentation  
 
 ---
 
